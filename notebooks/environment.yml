@@ -9,7 +9,6 @@ dependencies:
   - python=3.10.10
   - seaborn=0.12.2
   - spyrmsd=0.6.0
-  - openmm=8.2.0
   - pip=23.3
   - pip:
     - meeko==0.5.0
